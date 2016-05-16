@@ -1,0 +1,3 @@
+Sitemap: http://www.cpeconference.com/sitemap.xml
+
+User-agent: *
