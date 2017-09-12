@@ -31,14 +31,14 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="applied chemistry conference, polymer processing conference, petroleum conference, chemical engineering conference, chemistry conference, polymer conference, cfd conference, environmental conference, rheology conference, desalination, food processing, thermodynamics, transport phenomena, catalysis, process modelling, pharmacuetical conference, electrochemistry, flow, heat transfer, fluid dynamics, fluid mechanics, fluid flow, applied chemistry, polymer processing, petroleum, chemical engineering, chemistry, polymer, cfd, environmental, rheology, desalination conference, food processing conference, thermodynamics conference, transport phenomena conference, catalysis conference, process modelling conference, pharmacuetical, electrochemistry conference, flow conference, heat transfer conference, fluid dynamics conference, fluid mechanics conference, fluid flow conference">
-<title>ICCPE'17 - Contact Us</title>
+<title>ICCPE'18 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="../css/ffhmt.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 <!--[if IE-9]><html lang="en" class="ie9"><![endif]-->
@@ -60,7 +60,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
 <body>
 <nav id="slide-menu">
-  <h1>ICCPE'17</h1>
+  <h1>ICCPE'18</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -102,8 +102,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'17)</h1>
-          <p class="subhead">June 8 - 10, 2017 | Rome, Italy</p>
+          <h1>4<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'18)</h1>
+          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -117,7 +117,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
 </div>
-<br><p class="body" style="text-align:center!important;">ICCPE'17 is part of the <b>3<sup>rd</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'17)</b>. For more information about the congress, please visit the website here: <a href="http://2017.mcmcongress.com/" class="body-link">www.2017.mcmcongress.com</a>.</p>
+<br><p class="body" style="text-align:center!important;">ICCPE'18 is part of the <b>4<sup>th</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'18)</b>. For more information about the congress, please visit the website here: <a href="http://2018.mcmcongress.com/" class="body-link">www.2018.mcmcongress.com</a>.</p>
         </div>
     </div>
 
@@ -129,8 +129,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
         </div>
 
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'17)</h1>
-          <p class="subhead">June 8 - 10, 2017 | Rome, Italy</p>
+          <h1>4<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'18)</h1>
+          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -144,7 +144,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
 </div>
-<br><p class="body" style="text-align:center!important; color: #FFF!important;">ICCPE'17 is part of the <b>3<sup>rd</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://2017.mcmcongress.com/" class="body-link">www.2017.mcmcongress.com</a>.</p>
+<br><p class="body" style="text-align:center!important; color: #FFF!important;">ICCPE'18 is part of the <b>4<sup>th</sup> World Congress on Mechanical, Chemical, and Material Engineering (MCM'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://2018.mcmcongress.com/" class="body-link">www.2018.mcmcongress.com</a>.</p>
         </div>
         </div> 
       </div>
@@ -158,11 +158,11 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">ICCPE 2017:</p>
-      <p class="body">ICCPE 2017 will  be held in Rome, Italy on June 8 - 10, 2017.</p>
+      <p class="bold">ICCPE 2018:</p>
+      <p class="body">ICCPE 2018 will  be held in Madrid, Spain on August 16 - 18, 2018.</p>
 
-      <p class="bold">MCM'17 Workshop</p>
-      <p class="body">As per popular request, the organizing committee has decided to extend the MCM'17 congress to three days (now June 8 - 10, 2017). The new high-level schedule is as follows:</p>
+      <!-- <p class="bold">MCM'18 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the MCM'18 congress to three days (now August 16 - 18, 2018). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Workshop(s) and Registration</li>
@@ -172,7 +172,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
       
       <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
 
-      <p class="body">More information to follow; we greatly appreciate your patience!</p>
+      <p class="body">More information to follow; we greatly appreciate your patience!</p> -->
 <!-- 
       <p class="bold">Poster Board Dimensions:</p>
       <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p> -->
@@ -184,8 +184,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
     </div>
     <div>
       <h2 class="title">3</h2>
-      <p class="bold">Propose Exhibits, Workshops & More</p>
-      <p class="body">ICCPE attracts a wide range of researchers in the field of nanotechnology. As a prominent company in the field of nanotechnology, we would like to offer you an exhibit at ICCPE. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
+      <p class="bold">Become a Sponsor or an Exhibitor</p>
+      <p class="body">ICCPE attracts a wide range of researchers in the field of nanotechnology. As a prominent company in the field of nanotechnology, we would like to offer you an exhibit at ICCPE. Please visit <a href="../sponsor" class="body-link">Sponsors</a> for more information.</p>
     </div>
 
   </div>
@@ -196,41 +196,37 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICCPE'17.</p>
+    Thank you for your interest in ICCPE'18.</p>
   </div>
 </div>
 
   <div class="unit unit-s-1 unit-m-1-3-1 unit-l-1-3-1">
   <div class="unit-spacer">
     <section class="main">
-        <div class="custom-calendar-wrap">
-          <div id="custom-inner" class="custom-inner">
-            <div class="custom-header clearfix">
-              <nav>
-                <span id="custom-prev" class="custom-prev"></span>
-                <span id="custom-next" class="custom-next"></span>
-              </nav>
-              <h2 id="custom-month" class="custom-month"></h2>
-              <h3 id="custom-year" class="custom-year"></h3>
-            </div>
-            <div id="calendar" class="fc-calendar-container"></div>
-          </div>
-        </div>
-      </section>
+
+      <ul class="side-bar-menu" style="padding:0px;">
+        <li><a href="../sponsor">Sponsors &amp; Exhibitors</a></li>
+        <li><a href="../symposium">Symposium &amp; Workshop</a></li>
+      </ul>
+
+    </section>
+
+    <br><br>
+
     <h2>Upcoming Dates</h2>
 
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-     <div class="past">Dec. 1, 2016</div>
-     Mar. 24, 2017
+     <!-- <div class="past">Dec. 1, 2016</div> -->
+     TBA
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-     <div class="past past-text">Paper Submission Deadline</div>
-     Final Extended Paper Submission Deadline
+     <!-- <div class="past past-text">Paper Submission Deadline</div> -->
+     Paper Submission Deadline
   </div>
 </div>
 </div>
@@ -238,15 +234,15 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">Feb. 15, 2017</div>
-    Mar. 27, 2017
+    <!-- <div class="past">Feb. 15, 2018</div> -->
+    TBA
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-    <div class="past past-text">Notification of Authors</div> 
-      Final Extended Notification of Authors
+    <!-- <div class="past past-text">Notification of Authors</div> --> 
+      Notification of Authors
   </div>
 </div>
 </div>
@@ -254,14 +250,14 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <div class="past">Mar. 1, 2017</div>
-    Apr. 20, 2017
+    <!-- <div class="past">Mar. 1, 2018</div> -->
+    TBA
   </div>
 </div>
 
 <div class="unit unit-s-1 unit-m-3-4 unit-l-3-4">
   <div class="unit-spacer">
-     <div class="past past-text">Final Version of Accepted Submissions Deadline</div> 
+     <!-- <div class="past past-text">Final Version of Accepted Submissions Deadline</div>  -->
      Final Version of Accepted Submissions Deadline
   </div>
 </div>
@@ -277,65 +273,33 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   <div class="unit-spacer">
     <h2>Contact Us</h2>
     <p class="body">International ASET Inc.<br>
-    Unit No. 417, 1376 Bank St.<br>
-    Ottawa, Ontario, Canada<br>
-    Postal Code: K1H 7Y3<br>
-    +1-613-695-3040<br>
+    Unit No. 104, 2442 St. Joseph Blvd.<br>
+    Orl&eacute;ans, Ontario, Canada<br>
+    Postal Code: K1C 1G1<br>
+    +1-613-834-9999<br>
     <a href="mailto:info@cpeconference.com">info@cpeconference.com</a></p>
     </div>
   </div>
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICCPE'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICCPE'18, please fill out the form below:</p>
 
-    <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
-  
-  <table border="0" class="contact">
-    <tbody>
-      <tr>
-        <td class="label">Name:</td>
-        <td class="text"><span id="sprytextfield1">
-              <input name="Name" type="text" id="Name" size="40" autocomplete="off">
+    <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
+  <div class="half left cf">
+    <input style="margin-bottom:0.85em" type="text" name="Name" id="Name" placeholder="Name" required>
+    <input style="margin-bottom:0.85em" type="email" name="Email" id="Email" placeholder="Email address" required>
+    <input type="text" name="Subject" id="Subject" placeholder="Subject" required>
+  </div>
+  <div class="half right cf">
+    <textarea name="Message" type="text" rows="5" name="Message" id="Message" placeholder="Message" required></textarea>
+  </div><br><br>
+  <center class="full right cf"><div class="g-recaptcha" data-sitekey="6Lcy9g0TAAAAAOhUOdVRqXcgZLmCa9MnuhCXj1R9"></div></center>
+  <div class="cf">
+  <center><div class="full right cf"><input type="submit" name="Submit" value="Submit">
+    <input type="reset" name="Reset" value="Reset"></center></div>
+</div></div></form>
 
-              <span class="textfieldRequiredMsg">A value is required.</span></span></td>
-        </tr>
-
-        <tr>
-            <td class="label">Email:</td>
-            <td class="text"><span id="sprytextfield2">
-            <input name="Email" type="text" id="Email" size="40" autocomplete="off">
-            <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td>
-          </tr>
-
-          <tr>
-            <td class="label">Confirm Email:</td>
-             <td class="text"><span id="spryconfirm4">
-              <input name="Confirm Email" type="text" id="Confirm Email" size="40" autocomplete="off">
-              <span class="confirmRequiredMsg">A value is required.</span><span class="confirmInvalidMsg">Emails don't match.</span></span></td>
-          </tr>
-
-          <tr>
-            <td class="label">Subject:</td>
-            <td class="text"><span id="sprytextfield3">
-              <input name="Subject" type="text" id="Subject" size="40" autocomplete="off">
-              <span class="textfieldRequiredMsg">A value is required.</span></span></td>
-          </tr>
-
-          <tr>
-            <td valign="top" class="label">Message:</td>
-            <td class="text"><span id="sprytextarea1">
-              <textarea name="Message" id="Message" cols="31" rows="10" autocomplete="off"></textarea>
-              <span class="textareaRequiredMsg">A value is required.</span></span>
-              <center>
-        <input type="submit" name="Submit" value="Submit" accept="image/jpeg">
-        <input type="reset" name="Reset" value="Reset"></center></td>
-          </tr>
-
-        </tbody></table><br>
-
-        
-</form>
     </div>
   </div>
   </div>
@@ -343,7 +307,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
 <div class="copyright">
   <a href="http://international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
-  <p class="body">&copy; Copyright International ASET Inc., 2017. All rights reserved.</p>
+  <p class="body">© Copyright <script>document.write(new Date().getFullYear())</script>, International ASET Inc. – All Rights Reserved.</p>
   <p class="copyright1">Have any feedback? Please provide them here: <script>var refURL = window.location.protocol + "//" + window.location.host + window.location.pathname; document.write('<a href="http://international-aset.com/feedback/?refURL=' + refURL+'" class="body-link">Feedback</a>');</script></p>
 </div>
 </div>
