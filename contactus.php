@@ -31,7 +31,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="applied chemistry conference, polymer processing conference, petroleum conference, chemical engineering conference, chemistry conference, polymer conference, cfd conference, environmental conference, rheology conference, desalination, food processing, thermodynamics, transport phenomena, catalysis, process modelling, pharmacuetical conference, electrochemistry, flow, heat transfer, fluid dynamics, fluid mechanics, fluid flow, applied chemistry, polymer processing, petroleum, chemical engineering, chemistry, polymer, cfd, environmental, rheology, desalination conference, food processing conference, thermodynamics conference, transport phenomena conference, catalysis conference, process modelling conference, pharmacuetical, electrochemistry conference, flow conference, heat transfer conference, fluid dynamics conference, fluid mechanics conference, fluid flow conference">
-<title>ICCPE'18 - Contact Us</title>
+<title>ICCPE'19 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -62,7 +62,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
 <body>
 <nav id="slide-menu">
-  <h1>ICCPE'18</h1>
+  <h1>ICCPE'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -103,8 +103,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
         <div class="bg">
-          <h1>4<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'18)</h1>
-          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
+          <h1>5<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'19)</h1>
+          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -130,8 +130,8 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
         </div>
 
         <div class="bg">
-          <h1>4<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'18)</h1>
-          <p class="subhead">August 16 - 18, 2018 | Madrid, Spain</p>
+          <h1>5<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'19)</h1>
+          <p class="subhead">August, 2019 | Prague, Czech Republic</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -162,7 +162,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICCPE'18.</p>
+    Thank you for your interest in ICCPE'19.</p>
   </div>
 </div>
 
@@ -189,7 +189,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICCPE'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICCPE'19, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
