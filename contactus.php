@@ -104,7 +104,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 </div>
         <div class="bg">
           <h1>5<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'19)</h1>
-          <p class="subhead">August 15 - 17, 2019 | Prague, Czech Republic</p>
+          <p class="subhead">August 15 - 17, 2019 | Lisbon, Portugal</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -131,7 +131,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
 
         <div class="bg">
           <h1>5<sup>th</sup> International Conference on Chemical<br>and Polymer Engineering (ICCPE'19)</h1>
-          <p class="subhead">August 15 - 17, 2019 | Prague, Czech Republic</p>
+          <p class="subhead">August 15 - 17, 2019 | Lisbon, Portugal</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
